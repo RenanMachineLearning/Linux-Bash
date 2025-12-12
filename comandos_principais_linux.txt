@@ -1,0 +1,41 @@
+ls: Lista o conteúdo do diretório atual.
+cd: Muda o diretório de trabalho.
+pwd: Exibe o caminho do diretório atual.
+mkdir: Cria um novo diretório.
+rmdir: Remove um diretório vazio.
+rm: Remove arquivos ou diretórios.
+cp: Copia arquivos e diretórios.
+mv: Move ou renomeia arquivos e diretórios.
+cat: Exibe o conteúdo de um arquivo.
+less: Exibe o conteúdo de um arquivo paginado.
+head: Exibe as primeiras linhas de um arquivo.
+tail: Exibe as últimas linhas de um arquivo.
+grep: Procura padrões em arquivos.
+find: Procura arquivos e diretórios.
+echo: Exibe texto na tela.
+man: Exibe o manual de um comando.
+sudo: Executa um comando como superusuário.
+apt update: Atualiza a lista de pacotes disponíveis.
+apt upgrade: Atualiza os pacotes instalados.
+apt install: Instala novos pacotes.
+apt remove: Remove pacotes.
+ps: Exibe processos em execução.
+kill: Encerra um processo pelo PID.
+top: Monitora processos e uso de recursos em tempo real.
+df: Exibe o uso do disco.
+du: Exibe o uso do espaço em disco por arquivos e diretórios.
+chmod: Altera permissões de arquivos.
+chown: Altera o proprietário de arquivos.
+ssh: Conecta-se a um servidor remoto.
+scp: Copia arquivos entre hosts na rede.
+wget: Baixa arquivos da internet.
+curl: Transfere dados de ou para um servidor.
+ping: Testa a conectividade da rede.
+ifconfig: Exibe configurações de rede (em sistemas mais antigos).
+ip addr: Exibe configurações de rede (preferido em sistemas mais novos).
+cal: Exibe um calendário.
+whoami: Exibe o nome de usuário atual.
+clear: Limpa a tela do terminal.
+tar: Compacta e descompacta arquivos.
+zip: Compacta arquivos em formato ZIP.
+unzip: Descompacta arquivos ZIP.
